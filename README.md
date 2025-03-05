@@ -26,9 +26,8 @@ Pour réclamer votre bon d'examen AWS **100% gratuit**, vous devez :
 
 ✅ Obtenir **80% ou plus** à un **examen d'entraînement officiel** AWS Skill Builder ou un ensemble de questions  
 
-👉 **[skillbuilder](https://dev.to/nikhil_nareddula_/100-free-certification-voucher-for-foundational-associate-level-1ce8#:~:text=Click%20here%20signup-,skillbuilder,-After%20login%20%F0%9F%91%87) et gagné des points**  
 
-👉 **Inscrivez-vous à Skill Builder ici**  
+👉 **Inscrivez-vous à Skill Builder ici [skillbuilder](https://dev.to/nikhil_nareddula_/100-free-certification-voucher-for-foundational-associate-level-1ce8#:~:text=Click%20here%20signup-,skillbuilder,-After%20login%20%F0%9F%91%87)**  
 
 Après connexion 👇  
 
