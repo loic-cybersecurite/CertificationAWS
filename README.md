@@ -27,7 +27,7 @@ Pour réclamer votre bon d'examen AWS **100% gratuit**, vous devez :
 ✅ Obtenir **80% ou plus** à un **examen d'entraînement officiel** AWS Skill Builder ou un ensemble de questions  
 
 
-👉 **Inscrivez-vous à Skill Builder ici [skillbuilder](https://dev.to/nikhil_nareddula_/100-free-certification-voucher-for-foundational-associate-level-1ce8#:~:text=Click%20here%20signup-,skillbuilder,-After%20login%20%F0%9F%91%87)**  
+👉 **Inscrivez-vous à Skill Builder ici [skillbuilder](https://www.aws.training/)**  
 
 Après connexion 👇  
 
@@ -47,14 +47,14 @@ Effectuez l'évaluation et obtenez un score de **80% ou plus** pour être éligi
 
 ✅ **Cours de certification Foundational :**  
 ⚡ **[Cloud Practitioner](https://dev.to/nikhil_nareddula_/100-free-certification-voucher-for-foundational-associate-level-1ce8#:~:text=certification%20courses%3A%0A%E2%9A%A1-,Cloud%20Practitioner,-%E2%9A%A1AI%20Practitioner)**  
-⚡ **[AI Practitioner](https://lnkd.in/gn3E_p9N)**  
+⚡ **[AI Practitioner](https://skillbuilder.aws/exam-prep/ai-practitioner?trk=c874993c-4bab-47c1-b1ff-ecdd03c83d1f&sc_channel=el)**  
 
 ✅ **Cours de certification Associate :**  
-⚡ **[SysOps](https://lnkd.in/gY-5vs5y)**  
-⚡ **[Developer](https://lnkd.in/gPYsMQSp)**  
-⚡ **[Solutions Architect](https://lnkd.in/gBETZBiX)**  
-⚡ **[Data Engineer](https://lnkd.in/g7Xf5QWu)**  
-⚡ **[Machine Learning Engineer](https://lnkd.in/gvhTbmmZ)**  
+⚡ **[SysOps](https://skillbuilder.aws/exam-prep/cloud-practitioner?trk=c874993c-4bab-47c1-b1ff-ecdd03c83d1f&sc_channel=el)**  
+⚡ **[Developer](https://skillbuilder.aws/exam-prep/developer-associate/?trk=c874993c-4bab-47c1-b1ff-ecdd03c83d1f&sc_channel=el)**  
+⚡ **[Solutions Architect](https://skillbuilder.aws/exam-prep/solutions-architect-associate?trk=c874993c-4bab-47c1-b1ff-ecdd03c83d1f&sc_channel=el)**  
+⚡ **[Data Engineer](https://skillbuilder.aws/exam-prep/data-engineer-associate/?trk=c874993c-4bab-47c1-b1ff-ecdd03c83d1f&sc_channel=el)**  
+⚡ **[Machine Learning Engineer](https://skillbuilder.aws/exam-prep/machine-learning-engineer-associate?trk=c874993c-4bab-47c1-b1ff-ecdd03c83d1f&sc_channel=el)**  
 
 Si vous ne trouvez toujours pas votre formation, recherchez-la sur **AWS Skill Builder** en entrant le nom de la certification.  
 
