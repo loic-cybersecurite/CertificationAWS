@@ -46,7 +46,7 @@ Effectuez l'évaluation et obtenez un score de **80% ou plus** pour être éligi
 ### 🎓 **Liens directs vers les formations :**  
 
 ✅ **Cours de certification Foundational :**  
-⚡ **[Cloud Practitioner](https://dev.to/nikhil_nareddula_/100-free-certification-voucher-for-foundational-associate-level-1ce8#:~:text=certification%20courses%3A%0A%E2%9A%A1-,Cloud%20Practitioner,-%E2%9A%A1AI%20Practitioner)**  
+⚡ **[Cloud Practitioner](https://explore.skillbuilder.aws/learn?trk=c874993c-4bab-47c1-b1ff-ecdd03c83d1f&sc_channel=el)**  
 ⚡ **[AI Practitioner](https://skillbuilder.aws/exam-prep/ai-practitioner?trk=c874993c-4bab-47c1-b1ff-ecdd03c83d1f&sc_channel=el)**  
 
 ✅ **Cours de certification Associate :**  
